@@ -1,2 +1,2 @@
 # OpenJSCADExamples
-OpenJSCAD Exaples
+OpenJSCAD Examples
