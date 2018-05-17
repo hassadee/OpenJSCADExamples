@@ -1,8 +1,8 @@
-// title      : 3D Primatives Sphere
+// title      : 3D Primitives Sphere
 // author     : Hassadee Pimsuwan
 // license    : MIT License
-// description: 3D primatives cube example
-// file       : primative_sphere.jscad
+// description: 3D primitives sphere example
+// file       : primitives_sphere.jscad
 
 function primatives_sphere() {
 	return union(

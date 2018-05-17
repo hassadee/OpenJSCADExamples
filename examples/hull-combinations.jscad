@@ -1,8 +1,8 @@
-// title      : Hull
+// title      : Hull Combinations
 // author     : Hassadee Pimsuwan
 // license    : MIT License
 // description: hull() with linear_extrude, union, and difference functions
-// file       : hull-linear_extrude-union-difference.jscad
+// file       : hull-combinations.jscad
 
 function unionHull() {
     var o = Array.prototype.slice.call(arguments);
